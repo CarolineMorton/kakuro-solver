@@ -1,0 +1,12 @@
+[package]
+name = "kakuro-solver"
+version = "0.1.0"
+authors = ["CarolineMorton <caroline@yellowbirdconsulting.co.uk>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+combinations = "0.1.0"
+subset = "0.3.0"
+itertools = "0.10.3"
